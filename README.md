@@ -14,7 +14,7 @@ It is completely responsive across all devices and created with attention to acc
 <!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="WildLife%20Animal%20Website/assets/images/desktop.png" alt="WildLife Desktop Screenshot" width="100%" />
+<img src="WildLife%20Animal%20Website/assets/images/desktop%20(1).png" alt="WildLife Desktop Screenshot" width="100%" />
 
 **WildLife** is a beautifully designed website that promotes awareness about wildlife protection and charitable contributions.  
 The website focuses on **nature conservation**, **animal care**, and **fundraising efforts**, using smooth layouts, green-themed aesthetics, and interactive sections to attract donors and volunteers.  
