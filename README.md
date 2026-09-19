@@ -77,7 +77,6 @@ Ideal for:
 
 - Fully responsive charity website
 - Wildlife and nature-inspired UI
-- Clean and modern layout
 - Donation and fundraising-focused sections
 - Awareness and conservation content
 - Engaging visual presentation
