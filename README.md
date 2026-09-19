@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="WildLife%20Animal%20Website/assets/images/logo.png" alt="WildLife Logo" width="120"/>
+<img src="WildLife%20Animal%20Website/favicon.svg" alt="WildLife Logo" width="120"/>
 
 <br />
 <br />
